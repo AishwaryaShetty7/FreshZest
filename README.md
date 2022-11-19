@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://fresh-zest-backend-a.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/shivaganeshtechis/Electric-Views
+git clone https://github.com/AishwaryaShetty7/FreshZest.git
 ```
 
 2. Backend setting
